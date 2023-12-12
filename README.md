@@ -1,2 +1,2 @@
 # Beldo
-Beldo is a website builder
+Beldo is a page builder
